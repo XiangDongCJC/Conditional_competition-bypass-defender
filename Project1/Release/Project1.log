@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\vs-2022\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 390 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> D:\2022-项目库\Project1\Release\Project1.exe

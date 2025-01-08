@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\vs-2022\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\Conditional _competition-bypass defender\x64\Debug\Project1.exe

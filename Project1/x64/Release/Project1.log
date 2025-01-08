@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp_curl_easy_perform
+main.obj : error LNK2001: 无法解析的外部符号 __imp_curl_easy_init
+main.obj : error LNK2001: 无法解析的外部符号 __imp_curl_slist_append
+main.obj : error LNK2001: 无法解析的外部符号 __imp_curl_easy_cleanup
+main.obj : error LNK2001: 无法解析的外部符号 __imp_curl_easy_setopt
+D:\vs2022-项目库\Project1\x64\Release\Project1.exe : fatal error LNK1120: 5 个无法解析的外部命令
